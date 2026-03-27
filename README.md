@@ -103,7 +103,18 @@ You will be asked about your approach to solving the problem, and our expectatio
 **We ask that you share your prompts in the form of screenshots with us** so we can better understand your thought process
 and facilitate a productive conversation around how you may enhance your work at CVS with AI.
 
-These are the End Points I have tested.
+## How to Run
+
+1. Install dependencies:
+   npm install
+
+2. Start the server:
+   npm run dev
+
+Server runs on:
+http://localhost:3005
+
+## These are the End Points I have tested.
 * http://localhost:3005/api/movies
 * http://localhost:3005/api/movies?page=1
 * http://localhost:3005/api/movies/search/by-year?year=2010
