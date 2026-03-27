@@ -114,6 +114,10 @@ and facilitate a productive conversation around how you may enhance your work at
 Server runs on:
 http://localhost:3005
 
+Test the API by visiting:
+
+http://localhost:3005/heartbeat
+
 ## These are the End Points I have tested.
 * http://localhost:3005/api/movies
 * http://localhost:3005/api/movies?page=1
